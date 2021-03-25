@@ -1,0 +1,13 @@
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\bin\Debug\netcoreapp3.1\Tuplas y Prog Funcional.exe
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\bin\Debug\netcoreapp3.1\Tuplas y Prog Funcional.deps.json
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\bin\Debug\netcoreapp3.1\Tuplas y Prog Funcional.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\bin\Debug\netcoreapp3.1\Tuplas y Prog Funcional.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\bin\Debug\netcoreapp3.1\Tuplas y Prog Funcional.dll
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\bin\Debug\netcoreapp3.1\Tuplas y Prog Funcional.pdb
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\obj\Debug\netcoreapp3.1\Tuplas y Prog Funcional.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\obj\Debug\netcoreapp3.1\Tuplas y Prog Funcional.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\obj\Debug\netcoreapp3.1\Tuplas y Prog Funcional.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\obj\Debug\netcoreapp3.1\Tuplas y Prog Funcional.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\obj\Debug\netcoreapp3.1\Tuplas y Prog Funcional.dll
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\obj\Debug\netcoreapp3.1\Tuplas y Prog Funcional.pdb
+C:\Users\Ivanesa\source\repos\Tuplas y Prog Funcional\Tuplas y Prog Funcional\obj\Debug\netcoreapp3.1\Tuplas y Prog Funcional.genruntimeconfig.cache
